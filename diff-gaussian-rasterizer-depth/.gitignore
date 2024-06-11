@@ -1,0 +1,6 @@
+*.pyc
+.vscode/
+build/
+diff_gaussian_rasterization_depth.egg-info/
+diff_gaussian_rasterization_depth/__pycache__
+diff_gaussian_rasterization_depth/_C_depth.*

@@ -1,0 +1,9 @@
+cuda_utils/build
+cuda_utils/cuda_utils.egg-info
+
+diff-gaussian-rasterizer-depth/build
+diff-gaussian-rasterizer-depth/diff_gaussian_rasterization_depth.egg-info
+
+simple-knn/build
+simple-knn/simple_knn.egg-info
+simple-knn/simple_knn/*.so
